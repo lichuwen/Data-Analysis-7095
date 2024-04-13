@@ -58,7 +58,7 @@ In the Colab environment, you can follow these steps for your experiments:
 ### Hint
 * All file upload operations will be prompted within the code blocks, and you just need to execute the code blocks in sequence.
 * Each step will generate the files required for the next processing step. We have prepared them for you in advance, but you can also output new files by executing code blocks
-* Please note that the file used in the fourth step is based on the results of the data analysis in the third step to manually filter out some features that were not useful after analysis in the file generated in the second step.
+* Please note that the file used in the fourth step is based on the results of the data analysis in the third step to manually filter out some features that were not useful after analysis in the file generated in the second step (encoding_data_before_analysis.csv).
 
 ### Execution time：About 1 hour(including upload data file)
 
